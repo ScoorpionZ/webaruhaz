@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+main{
+    max-width: 600px;
+    margin: auto;
+}
+
+main, footer, section,article{
+    border: 1p solid gray;
+    padding: 10px;
+}
+
+fieldset>div{
+    display: grid;
+    grid-template-columns:  100px auto;
+}
+
+label{
+    text-align: right;
+    padding-right: 5px;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "cikkszam":"10053",
+        "termekNev":"Televízió",
+        "gyarto":"Samsung",
+        "ar":"44800",
+        "beszerzesDatuma":"2000-09-22",
+        "import":"Igen"
+    },
+    {
+        "cikkszam":"24410",
+        "termekNev":"Nyomtató",
+        "gyarto":"Serox",
+        "ar":"11590",
+        "beszerzesDatuma":"2000-10-02",
+        "import":"Nem"
+    }
+]
